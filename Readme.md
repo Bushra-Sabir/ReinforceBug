@@ -9,4 +9,4 @@ equivalence and semantic similarity (83.38%) to their original counterparts, and
 
 ** The link to Google Colab **
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)https://colab.research.google.com/drive/1rWm1lFI8GiStbZlbroJ54n-H3NXP7OaG?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/drive/1rWm1lFI8GiStbZlbroJ54n-H3NXP7OaG?usp=sharing>)
