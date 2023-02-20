@@ -7,6 +7,6 @@ the state-of the-art attack TextFooler. Moreover, the target models have on aver
 equivalence and semantic similarity (83.38%) to their original counterparts, and are transferable on other models with an average success rate of 46%
 
 
-<b> The link to Google Colab </b>
+** The link to Google Colab **
 
-https://colab.research.google.com/drive/1rWm1lFI8GiStbZlbroJ54n-H3NXP7OaG?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWm1lFI8GiStbZlbroJ54n-H3NXP7OaG?usp=sharing]
